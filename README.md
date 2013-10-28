@@ -6,8 +6,8 @@ guide. If you would like, you can manually install all of the things needed usin
 
 There are some things to note.
 
-1. I edited your fstab for the Quota installation. I only do this when you select to install Quota. This will not work on OpenVZ containers.
-2. I make no guarantees that this will work for you. It should, but I am not responsible for anything that happens to your system. It should be installed on a clean install. If you choose
+1. It is edited your fstab for the Quota installation. It only do this when you select to install Quota. This will not work on OpenVZ containers.
+2. It make no guarantees that this will work for you. It should, but I am not responsible for anything that happens to your system. It should be installed on a clean install. If you choose
 not to follow these directions, you are responsible for the damage that you have done.
 
 Debian Installation Instructions:
@@ -48,4 +48,4 @@ RoundCube Installation Instructions:
 TO DO
 -----
 
-See what other options I can add. Please feel free to submit an issue for any ideas that you have.
+Please feel free to submit an issue for any ideas that you have.
