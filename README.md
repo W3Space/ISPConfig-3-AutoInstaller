@@ -1,5 +1,5 @@
 ISPConfig 3 Installer
-This script will install all of the necessary programs and changes that need to be made to get ISPConfig running successfully. It uses the Perfect Server guide from Falko Timme as the guide. If you would like, you can manually install all of the things needed using the guides that he has provided. I am just trying to streamline the process.
+This script is based on dclardy64 and will will install all of the necessary programs and changes that need to be made to get ISPConfig running successfully. It uses the Perfect Server guide from Falko Timme as the guide. If you would like, you can manually install all of the things needed using the guides that he has provided. I am just trying to streamline the process.
 
 There are some things to note.
 
