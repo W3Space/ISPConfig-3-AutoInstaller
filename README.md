@@ -1,4 +1,4 @@
-ISPConfig 3 Installer
+ISPConfig 3 Auto Installer
 =====================
 
 This script is from dclardy64 and will install all of the necessary programs and changes that need to be made to get ISPConfig running successfully. It uses the Perfect Server guide from Falko Timme as the
