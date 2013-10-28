@@ -1,11 +1,10 @@
 #!/bin/bash
 
-###############################################################################################
-# Complete ISPConfig setup script for Debian 6, 7 (32 or 64 bit)                                                                                                   #
-# W3Space                                                                                                                                                                                                          #
-# http://w3space.net                                                                                                                  #
-###############################################################################################
-
+###################################################################
+# Complete ISPConfig setup script for Debian 6, 7 (32 or 64 bit)  #                                                                                                  #
+# W3Space                                                         #                                                                                                                                                #
+# http://w3space.net                                              #                                                                    #
+###################################################################
 # Check if user is root
 if [ $(id -u) != "0" ]; then
     echo "Error: You must have to be a root user to run this script, please use the root user to install it."
